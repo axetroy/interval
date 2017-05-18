@@ -1,5 +1,7 @@
 # interval
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/interval.svg)](https://greenkeeper.io/)
+
 patch for interval
 
 [Online Demo](https://axetroy.github.io/interval/)
